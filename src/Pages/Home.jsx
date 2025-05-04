@@ -21,7 +21,7 @@ const Home = () => {
             </section>
 
             <section className='w-[80%] mx-auto py-4'>
-                <main className='grid grid-cols-12 gap-2 items-center'>
+                <main className='grid grid-cols-12 gap-2 '>
                     <aside className='col-span-3'><LeftNavbar></LeftNavbar></aside>
                     <section className='col-span-6'><MainContent></MainContent></section>
                     <aside className='col-span-3'><RightNavbar></RightNavbar></aside>
